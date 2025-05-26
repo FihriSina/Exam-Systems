@@ -46,7 +46,7 @@ Projeyi YouTube üzerinde izlediğim bir eğitim serisinden ilham alarak sıfır
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/Exam-Systems.git
+   git clone https://github.com/FihriSina/Exam-Systems.git
 
 2. Visual Studio ile açın.
  
