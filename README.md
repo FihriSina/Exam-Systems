@@ -1,10 +1,10 @@
-# 🎯 Sınav Sistemi Projesi
+#  Sınav Sistemi Projesi
 
 Bu proje, öğrenci ve eğitmen rollerini barındıran, kullanıcıların sınavlara katılabildiği ve yöneticilerin sınavları, soruları ve kullanıcıları yönetebildiği kapsamlı bir sınav otomasyon sistemidir. Eğitim odaklı platformlarda kullanılabilecek temel bir altyapı sunar.
 
 Projeyi YouTube üzerinde izlediğim bir eğitim serisinden ilham alarak sıfırdan kendi elimle kodladım. Kaynak kod paylaşımı yapılmadığı için videoları izleyerek mantığını kavrayıp, tüm kodları bireysel olarak yazdım.
 
-📺 Kaynak aldığım YouTube oynatma listesi: [YouTube Eğitim Serisi](https://www.youtube.com/playlist?list=PLdRq0mbeEBmw2W6mXcMkWS8EpH-3HEyyZ)
+ Kaynak aldığım YouTube oynatma listesi: [YouTube Eğitim Serisi](https://www.youtube.com/playlist?list=PLdRq0mbeEBmw2W6mXcMkWS8EpH-3HEyyZ)
 
 ---
 
